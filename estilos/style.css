@@ -31,16 +31,16 @@ section#celular{
      /* conteiner de dentro */
 
     height: 654px;
-    width: 319px;
-    background: url('../imagens/frame-new4.png') no-repeat; 
+    width: 320px;
+    background: url('../imagens/frame-samsung.png') no-repeat; 
 }
 
 iframe#tela{
     border-radius: 5px;
     position: relative;
-    top: 32.7px;
-    left: 9.2px;
-    width: 300px;
+    top: 33.1px;
+    left: 9.5px;
+    width: 301.2px;
     height: 586.8px;
 
     /*top: 32.7px;
